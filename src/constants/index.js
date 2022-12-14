@@ -1,3 +1,3 @@
-import images from './images';
+import { default as images } from './images';
 
 export { images };
